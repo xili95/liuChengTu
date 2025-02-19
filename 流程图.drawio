@@ -84,8 +84,11 @@
         <mxCell id="6VRMfmL04QLUToL5H6Mg-22" value="将文件上传奔图云" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6VRMfmL04QLUToL5H6Mg-23" value="获取通知后拉取云端文件触发打印" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6VRMfmL04QLUToL5H6Mg-23" value="获取通知后拉取云端文件预览" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6VRMfmL04QLUToL5H6Mg-26" value="打印文件" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
