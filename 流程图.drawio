@@ -292,7 +292,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yB-tu_TS43O6OfGXvx2z" name="配网流程+插件">
-    <mxGraphModel dx="1925" dy="601" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2339" pageHeight="3300" background="none" math="0" shadow="0">
+    <mxGraphModel grid="1" page="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -758,7 +758,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="配网流程无插件" id="3B9ppcM0Fiq9B_VQnVyH">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1444" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -852,6 +852,12 @@
         <mxCell id="quOwpjGwqOXlt-lEPWHC-26" value="&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;postMessage&lt;/font&gt;返回&lt;div&gt;授权失败结果&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="quOwpjGwqOXlt-lEPWHC-16" vertex="1">
           <mxGeometry x="55" y="528" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="9-DjDF7Vli5NZMzQ6eIk-1" value="调用获取&lt;div&gt;openId、&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;token接口&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="quOwpjGwqOXlt-lEPWHC-16">
+          <mxGeometry x="-24" y="192" width="128" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="9-DjDF7Vli5NZMzQ6eIk-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="quOwpjGwqOXlt-lEPWHC-16">
+          <mxGeometry x="100" y="168" width="50" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="quOwpjGwqOXlt-lEPWHC-27" value="" style="group" parent="fFZTRj8djR1phHW-JKAt-1" vertex="1" connectable="0">
           <mxGeometry x="762.5" y="2" width="105" height="534" as="geometry" />
         </mxCell>
@@ -894,7 +900,7 @@
         <mxCell id="quOwpjGwqOXlt-lEPWHC-39" value="传入产品配网配置的参数：厂商ID、产品ID，&lt;div&gt;客户端环境信息，h5地址&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="fFZTRj8djR1phHW-JKAt-1" vertex="1">
           <mxGeometry x="182.5" y="135" width="260" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="quOwpjGwqOXlt-lEPWHC-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="fFZTRj8djR1phHW-JKAt-1" source="quOwpjGwqOXlt-lEPWHC-19" target="quOwpjGwqOXlt-lEPWHC-30" edge="1">
+        <mxCell id="quOwpjGwqOXlt-lEPWHC-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="fFZTRj8djR1phHW-JKAt-1" source="9-DjDF7Vli5NZMzQ6eIk-2" target="quOwpjGwqOXlt-lEPWHC-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="quOwpjGwqOXlt-lEPWHC-41" value="加载H5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="fFZTRj8djR1phHW-JKAt-1" vertex="1">
