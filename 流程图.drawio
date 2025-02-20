@@ -292,7 +292,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yB-tu_TS43O6OfGXvx2z" name="配网流程+插件">
-    <mxGraphModel dx="1925" dy="1001" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2339" pageHeight="3300" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1925" dy="601" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2339" pageHeight="3300" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -321,7 +321,7 @@
           <mxGeometry x="-10" y="150" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x3tBnD8doAG79xHDwLAr-7" value="" style="group;align=center;" vertex="1" connectable="0" parent="tpqIqznKz9M7Wj2231-0-7">
-          <mxGeometry x="332.5" y="10" width="241.5" height="536" as="geometry" />
+          <mxGeometry x="332.5" y="10" width="330.5" height="536" as="geometry" />
         </mxCell>
         <mxCell id="x3tBnD8doAG79xHDwLAr-8" value="服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="x3tBnD8doAG79xHDwLAr-7">
           <mxGeometry width="60" height="30" as="geometry" />
@@ -349,6 +349,12 @@
         </mxCell>
         <mxCell id="x3tBnD8doAG79xHDwLAr-19" value="查询接口2XXX" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=#7EA6E0;" vertex="1" parent="x3tBnD8doAG79xHDwLAr-7">
           <mxGeometry x="141.5" y="229" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6O0zHFTNASZUyGjyQ3yR-1" value="调用获取&lt;div&gt;openId、&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;token接口&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="x3tBnD8doAG79xHDwLAr-7">
+          <mxGeometry x="154.5" y="193" width="128" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="6O0zHFTNASZUyGjyQ3yR-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="x3tBnD8doAG79xHDwLAr-7">
+          <mxGeometry x="280.5" y="165" width="50" height="47" as="geometry" />
         </mxCell>
         <mxCell id="x3tBnD8doAG79xHDwLAr-26" value="" style="group" vertex="1" connectable="0" parent="tpqIqznKz9M7Wj2231-0-7">
           <mxGeometry x="762.5" y="12" width="105" height="1418" as="geometry" />
@@ -747,9 +753,6 @@
         </mxCell>
         <mxCell id="tpqIqznKz9M7Wj2231-0-1" value="备注：在扫描或者连接设备的过程中，&lt;div&gt;如果退出流程，可以通知插件停止&lt;div&gt;&lt;font style=&quot;color: rgb(255, 128, 0); font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; white-space-collapse: preserve;&quot;&gt;action: &lt;/span&gt;&lt;span style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; white-space-collapse: preserve;&quot;&gt;&quot;stopConfigDevice&quot;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="tpqIqznKz9M7Wj2231-0-7">
           <mxGeometry x="1057" y="229" width="238" height="59" as="geometry" />
-        </mxCell>
-        <mxCell id="6O0zHFTNASZUyGjyQ3yR-1" value="调用获取&lt;div&gt;openId、&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;token接口&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1105" y="381" width="128" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
