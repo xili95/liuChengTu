@@ -641,7 +641,7 @@
           <mxGeometry x="1025" y="610" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x3tBnD8doAG79xHDwLAr-18" value="拉取模版快应用" style="whiteSpace=wrap;html=1;verticalAlign=top;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1005" y="762.5" width="120" height="25" as="geometry" />
+          <mxGeometry x="1005" y="774" width="120" height="25" as="geometry" />
         </mxCell>
         <mxCell id="x3tBnD8doAG79xHDwLAr-19" value="查询接口2XXX" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="985" y="838" width="100" height="30" as="geometry" />
