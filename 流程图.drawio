@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.13" pages="4">
   <diagram name="第 1 页" id="9RK9nbPZW3g5A10vmvpH">
-    <mxGraphModel dx="2774" dy="1460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -292,15 +292,12 @@
     </mxGraphModel>
   </diagram>
   <diagram name="配网流程" id="3B9ppcM0Fiq9B_VQnVyH">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1654" pageHeight="2336" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1387" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4ng-21N5T7n270caxSE2-2" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="560" y="660" width="980" height="1382" as="geometry" />
-        </mxCell>
-        <mxCell id="quOwpjGwqOXlt-lEPWHC-1" value="" style="group" parent="4ng-21N5T7n270caxSE2-2" vertex="1" connectable="0">
-          <mxGeometry width="867.5" height="1382" as="geometry" />
+        <mxCell id="quOwpjGwqOXlt-lEPWHC-1" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="510" y="620" width="867.5" height="1382" as="geometry" />
         </mxCell>
         <mxCell id="quOwpjGwqOXlt-lEPWHC-2" value="" style="group" parent="quOwpjGwqOXlt-lEPWHC-1" vertex="1" connectable="0">
           <mxGeometry x="25" y="2" width="95" height="534" as="geometry" />
@@ -668,8 +665,11 @@
         <mxCell id="quOwpjGwqOXlt-lEPWHC-111" value="&lt;font style=&quot;forced-color-adjust: none; font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; color: light-dark(rgb(51, 51, 255), rgb(168, 168, 255));&quot;&gt;postMessage&lt;/font&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;返回&lt;/span&gt;&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;扫描失败结果&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="quOwpjGwqOXlt-lEPWHC-1" vertex="1">
           <mxGeometry x="642.5" y="612" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4ng-21N5T7n270caxSE2-1" value="h5通过&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, 黑体, Arial, sans-serif; letter-spacing: 0.2px; text-align: start; text-wrap-mode: wrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: rgb(0, 102, 51);&quot;&gt;system.onmessage&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, 黑体, Arial, sans-serif; letter-spacing: 0.2px; text-align: start; text-wrap-mode: wrap; background-color: rgb(255, 255, 255);&quot;&gt;监听消息&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="4ng-21N5T7n270caxSE2-2" vertex="1">
-          <mxGeometry x="810" y="150" width="170" height="40" as="geometry" />
+        <mxCell id="4ng-21N5T7n270caxSE2-1" value="h5通过&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, 黑体, Arial, sans-serif; letter-spacing: 0.2px; text-align: start; text-wrap-mode: wrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;color: rgb(0, 102, 51);&quot;&gt;system.onmessage&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, 黑体, Arial, sans-serif; letter-spacing: 0.2px; text-align: start; text-wrap-mode: wrap; background-color: rgb(255, 255, 255);&quot;&gt;监听消息&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1320" y="770" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A0TelFLk3-cFgbu9pdsb-1" value="配网实现" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
