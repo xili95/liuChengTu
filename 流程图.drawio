@@ -292,7 +292,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yB-tu_TS43O6OfGXvx2z" name="配网流程+插件">
-    <mxGraphModel grid="1" page="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1925" dy="601" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2339" pageHeight="3300" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -350,7 +350,7 @@
         <mxCell id="x3tBnD8doAG79xHDwLAr-19" value="查询接口2XXX" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=#7EA6E0;" vertex="1" parent="x3tBnD8doAG79xHDwLAr-7">
           <mxGeometry x="141.5" y="229" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6O0zHFTNASZUyGjyQ3yR-1" value="调用获取&lt;div&gt;openId、&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;token接口&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="x3tBnD8doAG79xHDwLAr-7">
+        <mxCell id="6O0zHFTNASZUyGjyQ3yR-1" value="调用获取&lt;div&gt;&lt;font style=&quot;color: rgb(255, 128, 0);&quot;&gt;openId、&lt;span style=&quot;background-color: transparent;&quot;&gt;token接口&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="x3tBnD8doAG79xHDwLAr-7">
           <mxGeometry x="154.5" y="193" width="128" height="36" as="geometry" />
         </mxCell>
         <mxCell id="6O0zHFTNASZUyGjyQ3yR-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="x3tBnD8doAG79xHDwLAr-7">
@@ -852,7 +852,7 @@
         <mxCell id="quOwpjGwqOXlt-lEPWHC-26" value="&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;postMessage&lt;/font&gt;返回&lt;div&gt;授权失败结果&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="quOwpjGwqOXlt-lEPWHC-16" vertex="1">
           <mxGeometry x="55" y="528" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9-DjDF7Vli5NZMzQ6eIk-1" value="调用获取&lt;div&gt;openId、&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;token接口&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="quOwpjGwqOXlt-lEPWHC-16">
+        <mxCell id="9-DjDF7Vli5NZMzQ6eIk-1" value="调用获取&lt;div&gt;&lt;font style=&quot;color: rgb(255, 128, 0);&quot;&gt;openId、&lt;span style=&quot;background-color: transparent;&quot;&gt;token接口&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="quOwpjGwqOXlt-lEPWHC-16">
           <mxGeometry x="-24" y="192" width="128" height="36" as="geometry" />
         </mxCell>
         <mxCell id="9-DjDF7Vli5NZMzQ6eIk-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="quOwpjGwqOXlt-lEPWHC-16">
