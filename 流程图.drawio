@@ -742,8 +742,8 @@
         <mxCell id="CYqz8gRFkrtAQmBQJBtm-2" value="配置设备房间" style="whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="510" y="2155" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="tpqIqznKz9M7Wj2231-0-1" value="备注：在扫描或者连接设备的过程中，&lt;div&gt;如果退出流程，可以通知插件停止&lt;div&gt;&lt;font style=&quot;color: rgb(255, 128, 0); font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; white-space-collapse: preserve;&quot;&gt;action: &lt;/span&gt;&lt;span style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; white-space-collapse: preserve;&quot;&gt;&quot;stopConfigDevice&quot;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1591" y="1064" width="238" height="59" as="geometry" />
+        <mxCell id="tpqIqznKz9M7Wj2231-0-1" value="备注：在扫描或者连接设备的过程中，&lt;div&gt;如果退出流程，可以通知插件停止&lt;div&gt;&lt;font style=&quot;color: rgb(255, 128, 0); font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; white-space-collapse: preserve;&quot;&gt;action: &lt;/span&gt;&lt;span style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; white-space-collapse: preserve;&quot;&gt;&quot;stopConfigDevice&quot;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="1567" y="839" width="238" height="59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
