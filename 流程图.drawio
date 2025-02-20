@@ -748,14 +748,14 @@
         <mxCell id="tpqIqznKz9M7Wj2231-0-1" value="备注：在扫描或者连接设备的过程中，&lt;div&gt;如果退出流程，可以通知插件停止&lt;div&gt;&lt;font style=&quot;color: rgb(255, 128, 0); font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; white-space-collapse: preserve;&quot;&gt;action: &lt;/span&gt;&lt;span style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; white-space-collapse: preserve;&quot;&gt;&quot;stopConfigDevice&quot;&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="tpqIqznKz9M7Wj2231-0-7">
           <mxGeometry x="1057" y="229" width="238" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="6O0zHFTNASZUyGjyQ3yR-1" value="获取openId、&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;token接口&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1105" y="381" width="120" height="60" as="geometry" />
+        <mxCell id="6O0zHFTNASZUyGjyQ3yR-1" value="调用获取&lt;div&gt;openId、&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;token接口&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1105" y="381" width="128" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="配网流程无插件" id="3B9ppcM0Fiq9B_VQnVyH">
-    <mxGraphModel dx="1444" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
