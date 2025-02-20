@@ -386,8 +386,8 @@
         <mxCell id="x3tBnD8doAG79xHDwLAr-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="x3tBnD8doAG79xHDwLAr-6" target="x3tBnD8doAG79xHDwLAr-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="x3tBnD8doAG79xHDwLAr-38" value="传入产品配网配置的&lt;font style=&quot;color: rgb(0, 153, 0);&quot;&gt;&lt;b&gt;参数1&lt;/b&gt;&lt;/font&gt;：厂商ID、产品ID，&lt;div&gt;客户端环境信息，h5地址...&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="687.5" y="755" width="270" height="40" as="geometry" />
+        <mxCell id="x3tBnD8doAG79xHDwLAr-38" value="传入产品配网配置的&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;参数1&lt;/b&gt;&lt;/font&gt;：厂商ID、产品ID，&lt;div&gt;客户端环境信息，h5地址...&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="689.5" y="754" width="266" height="42" as="geometry" />
         </mxCell>
         <mxCell id="x3tBnD8doAG79xHDwLAr-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="x3tBnD8doAG79xHDwLAr-18" target="x3tBnD8doAG79xHDwLAr-29">
           <mxGeometry relative="1" as="geometry" />
@@ -395,8 +395,8 @@
         <mxCell id="x3tBnD8doAG79xHDwLAr-40" value="加载H5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="1182.5" y="760" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="x3tBnD8doAG79xHDwLAr-41" value="通过&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;postMessage&lt;/font&gt;&lt;div&gt;将前面&lt;div&gt;&lt;font style=&quot;color: rgb(0, 153, 0);&quot;&gt;&lt;b&gt;参数2&lt;/b&gt;&lt;/font&gt;传入&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1152.5" y="782" width="120" height="60" as="geometry" />
+        <mxCell id="x3tBnD8doAG79xHDwLAr-41" value="通过&lt;font style=&quot;color: rgb(51, 51, 255);&quot;&gt;postMessage&lt;/font&gt;&lt;div&gt;将前面&lt;div&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;参数2&lt;/b&gt;&lt;/font&gt;传入&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1155.5" y="784" width="114" height="56" as="geometry" />
         </mxCell>
         <mxCell id="x3tBnD8doAG79xHDwLAr-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="x3tBnD8doAG79xHDwLAr-30" target="x3tBnD8doAG79xHDwLAr-12">
           <mxGeometry relative="1" as="geometry" />
