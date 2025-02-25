@@ -1439,8 +1439,14 @@
         <mxCell id="-8Q74ENjdY0Rc1LSGr4y-41" value="组件配置" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1100" y="510" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="-8Q74ENjdY0Rc1LSGr4y-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-8Q74ENjdY0Rc1LSGr4y-42" target="-8Q74ENjdY0Rc1LSGr4y-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-8Q74ENjdY0Rc1LSGr4y-42" value="模板配置&lt;div&gt;（根据产品的类别&lt;/div&gt;&lt;div&gt;显示当前可以&lt;/div&gt;&lt;div&gt;选用的模板）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1075" y="540" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-8Q74ENjdY0Rc1LSGr4y-45" value="控制主页、更多页" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1275" y="545" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
