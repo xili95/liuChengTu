@@ -1424,11 +1424,17 @@
         <mxCell id="-8Q74ENjdY0Rc1LSGr4y-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-8Q74ENjdY0Rc1LSGr4y-35" target="-8Q74ENjdY0Rc1LSGr4y-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-8Q74ENjdY0Rc1LSGr4y-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-8Q74ENjdY0Rc1LSGr4y-35" target="-8Q74ENjdY0Rc1LSGr4y-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-8Q74ENjdY0Rc1LSGr4y-35" value="实现方式：自有h5、快速配置" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1440" y="468" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-8Q74ENjdY0Rc1LSGr4y-36" value="选择自有h5&lt;div&gt;需要填写h5的地址&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1470" y="520" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="-8Q74ENjdY0Rc1LSGr4y-39" value="快速配置需要用户使用模板或者组件配置一个h5UI界面" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="443" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
