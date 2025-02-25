@@ -1428,7 +1428,7 @@
           <mxGeometry x="1440" y="468" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-8Q74ENjdY0Rc1LSGr4y-36" value="选择自有h5&lt;div&gt;需要填写h5的地址&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="520" width="130" height="120" as="geometry" />
+          <mxGeometry x="1470" y="520" width="120" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
