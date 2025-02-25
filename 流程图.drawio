@@ -1401,7 +1401,7 @@
           <mxGeometry x="380" y="440" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-8Q74ENjdY0Rc1LSGr4y-26" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="420" width="390" height="310" as="geometry" />
+          <mxGeometry x="630" y="420" width="390" height="680" as="geometry" />
         </mxCell>
         <mxCell id="-8Q74ENjdY0Rc1LSGr4y-27" value="配网开发" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="690" y="430" width="90" height="30" as="geometry" />
