@@ -1771,10 +1771,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CMyVE9SnIqPN9yVo3zJM-96" value="判断是否&lt;div&gt;在家中&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="865" y="710" width="150" height="60" as="geometry" />
+        <mxCell id="CMyVE9SnIqPN9yVo3zJM-96" value="判断是否&lt;div&gt;在家中或者车上&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="852.5" y="710" width="175" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CMyVE9SnIqPN9yVo3zJM-98" value="判断用户是否有连接&lt;div&gt;智能音箱或者大屏设备&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CMyVE9SnIqPN9yVo3zJM-98" value="判断用户是否有连接&lt;div&gt;智能音箱、车载、电视等等&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="852.5" y="800" width="175" height="100" as="geometry" />
         </mxCell>
       </root>
