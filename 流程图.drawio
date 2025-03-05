@@ -1777,7 +1777,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CMyVE9SnIqPN9yVo3zJM-96" value="判断是否&lt;div&gt;在家中或者车上&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CMyVE9SnIqPN9yVo3zJM-96" value="判断是否开启辅助扩音" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="852.5" y="710" width="175" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CMyVE9SnIqPN9yVo3zJM-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CMyVE9SnIqPN9yVo3zJM-98" target="CMyVE9SnIqPN9yVo3zJM-101">
@@ -1799,11 +1799,81 @@
         <mxCell id="CMyVE9SnIqPN9yVo3zJM-98" value="判断用户是否有连接&lt;div&gt;智能音箱、车载等&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="852.5" y="810" width="175" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="CMyVE9SnIqPN9yVo3zJM-101" value="将手机声音通过音箱或者车载播放出来" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="950" width="120" height="40" as="geometry" />
+        <mxCell id="CMyVE9SnIqPN9yVo3zJM-101" value="将手机声音通过辅助音箱、车载播放出来" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="875" y="950" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CMyVE9SnIqPN9yVo3zJM-104" value="手机直接播放音效" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1080" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CMyVE9SnIqPN9yVo3zJM-109" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1027.5" y="740" as="sourcePoint" />
+            <mxPoint x="1077.5" y="700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1067.5" y="740" />
+              <mxPoint x="1067.5" y="750" />
+              <mxPoint x="1057.5" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CMyVE9SnIqPN9yVo3zJM-110" value="206" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontColor=#0000CC;container=0;" vertex="1" connectable="0" parent="CMyVE9SnIqPN9yVo3zJM-109">
+          <mxGeometry x="0.9654" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CMyVE9SnIqPN9yVo3zJM-111" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="840" as="sourcePoint" />
+            <mxPoint x="1040" y="800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1030" y="840" />
+              <mxPoint x="1022.5" y="870" />
+              <mxPoint x="1022.5" y="840" />
+              <mxPoint x="1030" y="850" />
+              <mxPoint x="1020" y="860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CMyVE9SnIqPN9yVo3zJM-112" value="207" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontColor=#0000CC;container=0;" vertex="1" connectable="0" parent="CMyVE9SnIqPN9yVo3zJM-111">
+          <mxGeometry x="0.9654" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CMyVE9SnIqPN9yVo3zJM-113" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1005" y="970" as="sourcePoint" />
+            <mxPoint x="1055" y="930" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1045" y="970" />
+              <mxPoint x="1037.5" y="1000" />
+              <mxPoint x="1037.5" y="970" />
+              <mxPoint x="1045" y="980" />
+              <mxPoint x="1035" y="990" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CMyVE9SnIqPN9yVo3zJM-114" value="208-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontColor=#0000CC;container=0;" vertex="1" connectable="0" parent="CMyVE9SnIqPN9yVo3zJM-113">
+          <mxGeometry x="0.9654" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CMyVE9SnIqPN9yVo3zJM-115" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1200" y="860" as="sourcePoint" />
+            <mxPoint x="1250" y="820" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1240" y="860" />
+              <mxPoint x="1232.5" y="890" />
+              <mxPoint x="1232.5" y="860" />
+              <mxPoint x="1240" y="870" />
+              <mxPoint x="1230" y="880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CMyVE9SnIqPN9yVo3zJM-116" value="208-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontColor=#0000CC;container=0;" vertex="1" connectable="0" parent="CMyVE9SnIqPN9yVo3zJM-115">
+          <mxGeometry x="0.9654" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
