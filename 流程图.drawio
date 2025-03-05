@@ -1503,7 +1503,7 @@
         <mxCell id="CMyVE9SnIqPN9yVo3zJM-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CMyVE9SnIqPN9yVo3zJM-2" target="CMyVE9SnIqPN9yVo3zJM-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CMyVE9SnIqPN9yVo3zJM-2" value="选择白名单模式" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="CMyVE9SnIqPN9yVo3zJM-2" value="选择白名单音效模式" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="450" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CMyVE9SnIqPN9yVo3zJM-4" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="1">
@@ -1528,7 +1528,7 @@
             <mxPoint x="530" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CMyVE9SnIqPN9yVo3zJM-6" value="设置白名单模式" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="CMyVE9SnIqPN9yVo3zJM-6" value="设置白名音效单模式" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="510" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CMyVE9SnIqPN9yVo3zJM-8" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="1">
@@ -1561,7 +1561,7 @@
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CMyVE9SnIqPN9yVo3zJM-17" value="应用、账号、音效设置" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="850" y="308" width="140" height="30" as="geometry" />
+          <mxGeometry x="820" y="140" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CMyVE9SnIqPN9yVo3zJM-18" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -1583,6 +1583,71 @@
           <mxGeometry x="0.9654" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CMyVE9SnIqPN9yVo3zJM-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CMyVE9SnIqPN9yVo3zJM-24" target="CMyVE9SnIqPN9yVo3zJM-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CMyVE9SnIqPN9yVo3zJM-24" value="执行流程" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="250" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CMyVE9SnIqPN9yVo3zJM-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CMyVE9SnIqPN9yVo3zJM-25" target="CMyVE9SnIqPN9yVo3zJM-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CMyVE9SnIqPN9yVo3zJM-25" value="手机接到通信通知" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CMyVE9SnIqPN9yVo3zJM-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CMyVE9SnIqPN9yVo3zJM-27" target="CMyVE9SnIqPN9yVo3zJM-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CMyVE9SnIqPN9yVo3zJM-31" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CMyVE9SnIqPN9yVo3zJM-30">
+          <mxGeometry x="-0.2706" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CMyVE9SnIqPN9yVo3zJM-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CMyVE9SnIqPN9yVo3zJM-27" target="CMyVE9SnIqPN9yVo3zJM-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CMyVE9SnIqPN9yVo3zJM-44" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CMyVE9SnIqPN9yVo3zJM-43">
+          <mxGeometry x="-0.2667" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CMyVE9SnIqPN9yVo3zJM-27" value="判断手机是否&lt;div&gt;白名单音效模式&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="390" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CMyVE9SnIqPN9yVo3zJM-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CMyVE9SnIqPN9yVo3zJM-29" target="CMyVE9SnIqPN9yVo3zJM-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CMyVE9SnIqPN9yVo3zJM-29" value="获取白名单音效设置" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="500" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CMyVE9SnIqPN9yVo3zJM-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CMyVE9SnIqPN9yVo3zJM-34" target="CMyVE9SnIqPN9yVo3zJM-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CMyVE9SnIqPN9yVo3zJM-38" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CMyVE9SnIqPN9yVo3zJM-37">
+          <mxGeometry x="-0.4" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CMyVE9SnIqPN9yVo3zJM-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CMyVE9SnIqPN9yVo3zJM-34" target="CMyVE9SnIqPN9yVo3zJM-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CMyVE9SnIqPN9yVo3zJM-41" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CMyVE9SnIqPN9yVo3zJM-40">
+          <mxGeometry x="-0.0526" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CMyVE9SnIqPN9yVo3zJM-34" value="检验通知是否&lt;div&gt;在白名单中&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="865" y="550" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CMyVE9SnIqPN9yVo3zJM-36" value="手机播放对应的音效" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="650" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CMyVE9SnIqPN9yVo3zJM-39" value="执行手机现有的设置" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CMyVE9SnIqPN9yVo3zJM-42" value="执行手机现有的设置" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="405" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
