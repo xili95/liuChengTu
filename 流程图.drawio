@@ -1525,7 +1525,7 @@
         </mxCell>
         <mxCell id="CMyVE9SnIqPN9yVo3zJM-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CMyVE9SnIqPN9yVo3zJM-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530" y="630" as="targetPoint" />
+            <mxPoint x="530" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CMyVE9SnIqPN9yVo3zJM-6" value="设置白名单模式" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
@@ -1548,17 +1548,41 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CMyVE9SnIqPN9yVo3zJM-10" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CMyVE9SnIqPN9yVo3zJM-10" value="设置白名单内容" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="570" width="140" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="CMyVE9SnIqPN9yVo3zJM-11" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CMyVE9SnIqPN9yVo3zJM-10">
+        <mxCell id="CMyVE9SnIqPN9yVo3zJM-11" value="应用：比如电话、短信、微信等等" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CMyVE9SnIqPN9yVo3zJM-10">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CMyVE9SnIqPN9yVo3zJM-12" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CMyVE9SnIqPN9yVo3zJM-10">
+        <mxCell id="CMyVE9SnIqPN9yVo3zJM-12" value="账号：电话号码、短信号码、微信号等等" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CMyVE9SnIqPN9yVo3zJM-10">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CMyVE9SnIqPN9yVo3zJM-13" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CMyVE9SnIqPN9yVo3zJM-10">
+        <mxCell id="CMyVE9SnIqPN9yVo3zJM-13" value="音效：警报、音乐等等声音" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CMyVE9SnIqPN9yVo3zJM-10">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CMyVE9SnIqPN9yVo3zJM-17" value="应用、账号、音效设置" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="850" y="308" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CMyVE9SnIqPN9yVo3zJM-18" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="590" as="sourcePoint" />
+            <mxPoint x="650" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="620" />
+              <mxPoint x="640" y="590" />
+              <mxPoint x="630" y="590" />
+              <mxPoint x="650" y="630" />
+              <mxPoint x="660" y="640" />
+              <mxPoint x="630" y="610" />
+              <mxPoint x="620" y="620" />
+              <mxPoint x="630" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CMyVE9SnIqPN9yVo3zJM-19" value="105" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontColor=#0000CC;" vertex="1" connectable="0" parent="CMyVE9SnIqPN9yVo3zJM-18">
+          <mxGeometry x="0.9654" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
