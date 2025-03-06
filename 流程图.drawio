@@ -1914,7 +1914,7 @@
         <mxCell id="7shbgUTboksvkpGwb-yC-11" value="选择图片添加到&lt;div&gt;功能相册&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1730" y="510" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7shbgUTboksvkpGwb-yC-15" value="相册根据相册的设置执行对一个的功能" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="7shbgUTboksvkpGwb-yC-15" value="相册根据相册的设置执行对应的功能" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1730" y="580" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7shbgUTboksvkpGwb-yC-17" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="1">
