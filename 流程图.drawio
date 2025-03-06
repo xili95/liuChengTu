@@ -1917,7 +1917,7 @@
         <mxCell id="7shbgUTboksvkpGwb-yC-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7shbgUTboksvkpGwb-yC-11" target="7shbgUTboksvkpGwb-yC-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7shbgUTboksvkpGwb-yC-11" value="选择图片保存&lt;div&gt;在功能相册&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="7shbgUTboksvkpGwb-yC-11" value="选择图片添加到&lt;div&gt;功能相册&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1780" y="480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7shbgUTboksvkpGwb-yC-15" value="相册根据相册的设置执行对一个的功能" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
