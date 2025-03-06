@@ -1887,6 +1887,9 @@
         <mxCell id="BhmURazd1K4v0z7ljoBT-1" value="进入手机相册" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1780" y="270" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="7shbgUTboksvkpGwb-yC-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BhmURazd1K4v0z7ljoBT-2" target="7shbgUTboksvkpGwb-yC-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BhmURazd1K4v0z7ljoBT-2" value="创建功能相册" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1780" y="340" width="120" height="40" as="geometry" />
         </mxCell>
@@ -1904,6 +1907,21 @@
             <mxPoint x="1530" y="430" as="sourcePoint" />
             <mxPoint x="1710" y="360" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7shbgUTboksvkpGwb-yC-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7shbgUTboksvkpGwb-yC-9" target="7shbgUTboksvkpGwb-yC-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7shbgUTboksvkpGwb-yC-9" value="设置功能相册" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="410" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7shbgUTboksvkpGwb-yC-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7shbgUTboksvkpGwb-yC-11" target="7shbgUTboksvkpGwb-yC-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7shbgUTboksvkpGwb-yC-11" value="选择图片保存&lt;div&gt;在功能相册&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7shbgUTboksvkpGwb-yC-15" value="相册根据相册的设置执行对一个的功能" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="550" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
