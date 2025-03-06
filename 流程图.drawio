@@ -1452,7 +1452,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="s_mszkLsiqG3ClFB3CDw" name="第 7 页">
-    <mxGraphModel dx="1186" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2019,6 +2019,151 @@
           <mxGeometry x="0.9654" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7shbgUTboksvkpGwb-yC-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="7shbgUTboksvkpGwb-yC-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2190" y="300" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7shbgUTboksvkpGwb-yC-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7shbgUTboksvkpGwb-yC-42" target="7shbgUTboksvkpGwb-yC-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7shbgUTboksvkpGwb-yC-42" value="读取相册照片数据" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2130" y="330" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7shbgUTboksvkpGwb-yC-48" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2250" y="280" as="sourcePoint" />
+            <mxPoint x="2300" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2290" y="280" />
+              <mxPoint x="2680" y="340" />
+              <mxPoint x="2662.5" y="220" />
+              <mxPoint x="2280" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7shbgUTboksvkpGwb-yC-49" value="101" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontColor=#0000CC;container=0;" vertex="1" connectable="0" parent="7shbgUTboksvkpGwb-yC-48">
+          <mxGeometry x="0.9654" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7shbgUTboksvkpGwb-yC-50" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2250" y="350" as="sourcePoint" />
+            <mxPoint x="2300" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2290" y="350" />
+              <mxPoint x="2280" y="390" />
+              <mxPoint x="2680" y="410" />
+              <mxPoint x="2662.5" y="290" />
+              <mxPoint x="2280" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7shbgUTboksvkpGwb-yC-51" value="102" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontColor=#0000CC;container=0;" vertex="1" connectable="0" parent="7shbgUTboksvkpGwb-yC-50">
+          <mxGeometry x="0.9654" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7shbgUTboksvkpGwb-yC-52" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2250" y="420" as="sourcePoint" />
+            <mxPoint x="2300" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2290" y="420" />
+              <mxPoint x="2280" y="460" />
+              <mxPoint x="2280" y="460" />
+              <mxPoint x="2280" y="460" />
+              <mxPoint x="2680" y="480" />
+              <mxPoint x="2662.5" y="360" />
+              <mxPoint x="2280" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7shbgUTboksvkpGwb-yC-53" value="103" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontColor=#0000CC;container=0;" vertex="1" connectable="0" parent="7shbgUTboksvkpGwb-yC-52">
+          <mxGeometry x="0.9654" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7shbgUTboksvkpGwb-yC-54" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2470" y="440" as="sourcePoint" />
+            <mxPoint x="2520" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2510" y="440" />
+              <mxPoint x="2500" y="480" />
+              <mxPoint x="2500" y="480" />
+              <mxPoint x="2500" y="480" />
+              <mxPoint x="2900" y="500" />
+              <mxPoint x="2882.5" y="380" />
+              <mxPoint x="2500" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7shbgUTboksvkpGwb-yC-55" value="104" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontColor=#0000CC;container=0;" vertex="1" connectable="0" parent="7shbgUTboksvkpGwb-yC-54">
+          <mxGeometry x="0.9654" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7shbgUTboksvkpGwb-yC-56" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2250" y="560" as="sourcePoint" />
+            <mxPoint x="2300" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2290" y="560" />
+              <mxPoint x="2280" y="560" />
+              <mxPoint x="2280" y="590" />
+              <mxPoint x="2280" y="600" />
+              <mxPoint x="2280" y="600" />
+              <mxPoint x="2280" y="600" />
+              <mxPoint x="2680" y="620" />
+              <mxPoint x="2662.5" y="500" />
+              <mxPoint x="2280" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7shbgUTboksvkpGwb-yC-57" value="105" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontColor=#0000CC;container=0;" vertex="1" connectable="0" parent="7shbgUTboksvkpGwb-yC-56">
+          <mxGeometry x="0.9654" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7shbgUTboksvkpGwb-yC-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7shbgUTboksvkpGwb-yC-58" target="7shbgUTboksvkpGwb-yC-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7shbgUTboksvkpGwb-yC-58" value="提取文字相册" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="230" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="7shbgUTboksvkpGwb-yC-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7shbgUTboksvkpGwb-yC-61" target="7shbgUTboksvkpGwb-yC-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7shbgUTboksvkpGwb-yC-65" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7shbgUTboksvkpGwb-yC-64">
+          <mxGeometry x="-0.1529" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7shbgUTboksvkpGwb-yC-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7shbgUTboksvkpGwb-yC-61" target="7shbgUTboksvkpGwb-yC-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7shbgUTboksvkpGwb-yC-68" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7shbgUTboksvkpGwb-yC-67">
+          <mxGeometry x="-0.2444" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7shbgUTboksvkpGwb-yC-61" value="判断相册是否&lt;div&gt;指定文字保存文档&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2125" y="400" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7shbgUTboksvkpGwb-yC-63" value="将提取的文字保存到指定的文档" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2310" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7shbgUTboksvkpGwb-yC-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7shbgUTboksvkpGwb-yC-66" target="7shbgUTboksvkpGwb-yC-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7shbgUTboksvkpGwb-yC-66" value="将文案保存到&lt;div&gt;新建文档&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2130" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7shbgUTboksvkpGwb-yC-69" value="将新建文档以相册名来命名保存到手机文件中" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2130" y="595" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
