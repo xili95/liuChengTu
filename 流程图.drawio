@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16" pages="7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0" pages="8">
   <diagram name="第 1 页" id="9RK9nbPZW3g5A10vmvpH">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -2182,6 +2182,20 @@
         </mxCell>
         <mxCell id="7shbgUTboksvkpGwb-yC-80" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 204);&quot;&gt;提取文字相册&lt;/font&gt;&lt;/span&gt;&lt;div style=&quot;text-align: left;&quot;&gt;翻译相册&lt;br&gt;生成文档相册&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;...&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;strokeColor=#E6E6E6;shadow=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="2160" y="1247.5" width="120" height="75" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="3jt5N8JLzDOC8g6nPq9W" name="第 8 页">
+    <mxGraphModel dx="1188" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7S-xB85i8RtLv7WLk8Uw-1" value="快应用" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7S-xB85i8RtLv7WLk8Uw-2" value="插件" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
