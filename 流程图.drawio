@@ -203,8 +203,8 @@
         <mxCell id="jxCmJx77IiXwxa1z90el-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jxCmJx77IiXwxa1z90el-5" target="jxCmJx77IiXwxa1z90el-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jxCmJx77IiXwxa1z90el-5" value="通过WiFi接口获取现在连接的WiFi信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="1630" width="120" height="60" as="geometry" />
+        <mxCell id="jxCmJx77IiXwxa1z90el-5" value="&lt;font&gt;通过WiFi接口&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;; text-align: start; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;wifi.getConnectedWifi&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;获取现在连接的WiFi信息&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1630" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jxCmJx77IiXwxa1z90el-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jxCmJx77IiXwxa1z90el-7" target="jxCmJx77IiXwxa1z90el-9">
           <mxGeometry relative="1" as="geometry" />
@@ -239,8 +239,8 @@
         <mxCell id="jxCmJx77IiXwxa1z90el-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jxCmJx77IiXwxa1z90el-17" target="jxCmJx77IiXwxa1z90el-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jxCmJx77IiXwxa1z90el-17" value="通过WiFi接口获取现在连接的WiFi信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="1920" width="120" height="60" as="geometry" />
+        <mxCell id="jxCmJx77IiXwxa1z90el-17" value="通过WiFi接口&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;; text-align: start;&quot;&gt;wifi.getConnectedWifi&lt;/span&gt;获取现在连接的WiFi信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1923" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jxCmJx77IiXwxa1z90el-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jxCmJx77IiXwxa1z90el-21" target="jxCmJx77IiXwxa1z90el-23">
           <mxGeometry relative="1" as="geometry" />
@@ -325,6 +325,23 @@
         </mxCell>
         <mxCell id="jxCmJx77IiXwxa1z90el-50" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="810" y="1538" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jxCmJx77IiXwxa1z90el-51" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;font&gt;router.push({&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;font&gt;&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp; &lt;/span&gt;uri: &#39;hap://settings/wlan_manager&#39;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; text-align: start;&quot; class=&quot;p1&quot;&gt;&lt;font&gt;})&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="300" y="1418" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jxCmJx77IiXwxa1z90el-52" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="jxCmJx77IiXwxa1z90el-51" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="1475" as="sourcePoint" />
+            <mxPoint x="390" y="1270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jxCmJx77IiXwxa1z90el-53" value="Sub Topic" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="180" y="1528" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jxCmJx77IiXwxa1z90el-54" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="jxCmJx77IiXwxa1z90el-53" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="1570" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
