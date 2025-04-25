@@ -364,8 +364,52 @@
         <mxCell id="_ShygeYgpt9AiDXMq6Ya-2" value="使用wifi.connect接口触发WiFi连接" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1320" y="1430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_ShygeYgpt9AiDXMq6Ya-3" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="1530" width="80" height="80" as="geometry" />
+        <mxCell id="_ShygeYgpt9AiDXMq6Ya-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_ShygeYgpt9AiDXMq6Ya-3" target="_ShygeYgpt9AiDXMq6Ya-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ShygeYgpt9AiDXMq6Ya-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_ShygeYgpt9AiDXMq6Ya-3" target="_ShygeYgpt9AiDXMq6Ya-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ShygeYgpt9AiDXMq6Ya-3" value="是否成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1315" y="1520" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_ShygeYgpt9AiDXMq6Ya-9" value="成功后的业务" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="1530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_ShygeYgpt9AiDXMq6Ya-11" value="成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1455" y="1538" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ShygeYgpt9AiDXMq6Ya-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_ShygeYgpt9AiDXMq6Ya-13" target="_ShygeYgpt9AiDXMq6Ya-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_ShygeYgpt9AiDXMq6Ya-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_ShygeYgpt9AiDXMq6Ya-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1530" y="1680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_ShygeYgpt9AiDXMq6Ya-13" value="是否特定失败码&lt;div&gt;比如悬浮窗权限未开启&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1297.5" y="1640" width="165" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_ShygeYgpt9AiDXMq6Ya-16" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="1598" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ShygeYgpt9AiDXMq6Ya-17" value="按照方案一的方式做一个逻辑补丁（提高用户配网率）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="1768" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_ShygeYgpt9AiDXMq6Ya-19" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1372.5" y="1730" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ShygeYgpt9AiDXMq6Ya-22" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="1658" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ShygeYgpt9AiDXMq6Ya-23" value="业务处理" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="1610" width="208.75" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="_ShygeYgpt9AiDXMq6Ya-24" value="1、失败页面" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="_ShygeYgpt9AiDXMq6Ya-23">
+          <mxGeometry x="8.75" y="40" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ShygeYgpt9AiDXMq6Ya-25" value="2、方案一的方式做&lt;div&gt;一个逻辑补丁&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="_ShygeYgpt9AiDXMq6Ya-23">
+          <mxGeometry x="8.75" y="80" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
