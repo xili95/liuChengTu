@@ -402,7 +402,7 @@
         <mxCell id="_ShygeYgpt9AiDXMq6Ya-22" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1490" y="1658" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_ShygeYgpt9AiDXMq6Ya-23" value="业务处理" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" vertex="1" parent="1">
+        <mxCell id="_ShygeYgpt9AiDXMq6Ya-23" value="业务处理（二选一）" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" vertex="1" parent="1">
           <mxGeometry x="1530" y="1610" width="208.75" height="200" as="geometry" />
         </mxCell>
         <mxCell id="_ShygeYgpt9AiDXMq6Ya-24" value="1、失败页面" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="_ShygeYgpt9AiDXMq6Ya-23">
