@@ -2730,6 +2730,140 @@
         <mxCell id="Ty5rkw2UKSyU3w_IzllZ-137" value="完成场景触发" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1680" y="2780" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Ty5rkw2UKSyU3w_IzllZ-139" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1770" y="2440" as="sourcePoint" />
+            <mxPoint x="1820" y="2400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1760" y="2360" />
+              <mxPoint x="1810" y="2440" />
+              <mxPoint x="1760" y="2360" />
+              <mxPoint x="1840" y="2410" />
+              <mxPoint x="1790" y="2370" />
+              <mxPoint x="1800" y="2350" />
+              <mxPoint x="2200" y="2500" />
+              <mxPoint x="2182.5" y="2380" />
+              <mxPoint x="1800" y="2460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ty5rkw2UKSyU3w_IzllZ-140" value="201" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontColor=#0000CC;container=0;" vertex="1" connectable="0" parent="Ty5rkw2UKSyU3w_IzllZ-139">
+          <mxGeometry x="0.9654" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ty5rkw2UKSyU3w_IzllZ-142" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2000" y="2470" as="sourcePoint" />
+            <mxPoint x="2050" y="2430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1990" y="2390" />
+              <mxPoint x="2040" y="2470" />
+              <mxPoint x="1990" y="2390" />
+              <mxPoint x="2070" y="2440" />
+              <mxPoint x="2020" y="2400" />
+              <mxPoint x="2030" y="2380" />
+              <mxPoint x="2430" y="2530" />
+              <mxPoint x="2412.5" y="2410" />
+              <mxPoint x="2030" y="2490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ty5rkw2UKSyU3w_IzllZ-143" value="202-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontColor=#0000CC;container=0;" vertex="1" connectable="0" parent="Ty5rkw2UKSyU3w_IzllZ-142">
+          <mxGeometry x="0.9654" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ty5rkw2UKSyU3w_IzllZ-144" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=0.669;exitY=0.125;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Ty5rkw2UKSyU3w_IzllZ-127">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1770" y="2560" as="sourcePoint" />
+            <mxPoint x="1820" y="2520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1760" y="2480" />
+              <mxPoint x="1810" y="2560" />
+              <mxPoint x="1760" y="2480" />
+              <mxPoint x="1840" y="2530" />
+              <mxPoint x="1790" y="2490" />
+              <mxPoint x="1800" y="2470" />
+              <mxPoint x="2200" y="2620" />
+              <mxPoint x="2182.5" y="2500" />
+              <mxPoint x="1800" y="2580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ty5rkw2UKSyU3w_IzllZ-145" value="202-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontColor=#0000CC;container=0;" vertex="1" connectable="0" parent="Ty5rkw2UKSyU3w_IzllZ-144">
+          <mxGeometry x="0.9654" y="-2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ty5rkw2UKSyU3w_IzllZ-148" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2010" y="2590" as="sourcePoint" />
+            <mxPoint x="2060" y="2550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2000" y="2510" />
+              <mxPoint x="2010" y="2450" />
+              <mxPoint x="2050" y="2590" />
+              <mxPoint x="2000" y="2510" />
+              <mxPoint x="2080" y="2560" />
+              <mxPoint x="2030" y="2520" />
+              <mxPoint x="2040" y="2500" />
+              <mxPoint x="2440" y="2650" />
+              <mxPoint x="2422.5" y="2530" />
+              <mxPoint x="2040" y="2610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ty5rkw2UKSyU3w_IzllZ-149" value="203-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontColor=#0000CC;container=0;" vertex="1" connectable="0" parent="Ty5rkw2UKSyU3w_IzllZ-148">
+          <mxGeometry x="0.9654" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ty5rkw2UKSyU3w_IzllZ-150" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1800" y="2730" as="sourcePoint" />
+            <mxPoint x="1850" y="2690" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1790" y="2650" />
+              <mxPoint x="1800" y="2590" />
+              <mxPoint x="1840" y="2730" />
+              <mxPoint x="1790" y="2650" />
+              <mxPoint x="1870" y="2700" />
+              <mxPoint x="1820" y="2660" />
+              <mxPoint x="1830" y="2640" />
+              <mxPoint x="2230" y="2790" />
+              <mxPoint x="2212.5" y="2670" />
+              <mxPoint x="1830" y="2750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ty5rkw2UKSyU3w_IzllZ-151" value="203-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontColor=#0000CC;container=0;" vertex="1" connectable="0" parent="Ty5rkw2UKSyU3w_IzllZ-150">
+          <mxGeometry x="0.9654" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ty5rkw2UKSyU3w_IzllZ-152" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1800" y="2820" as="sourcePoint" />
+            <mxPoint x="1850" y="2780" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1790" y="2740" />
+              <mxPoint x="1840" y="2820" />
+              <mxPoint x="1790" y="2740" />
+              <mxPoint x="1870" y="2790" />
+              <mxPoint x="1820" y="2750" />
+              <mxPoint x="1830" y="2730" />
+              <mxPoint x="2230" y="2880" />
+              <mxPoint x="2212.5" y="2760" />
+              <mxPoint x="1830" y="2840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ty5rkw2UKSyU3w_IzllZ-153" value="204" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontColor=#0000CC;container=0;" vertex="1" connectable="0" parent="Ty5rkw2UKSyU3w_IzllZ-152">
+          <mxGeometry x="0.9654" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
