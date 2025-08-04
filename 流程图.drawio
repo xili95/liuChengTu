@@ -2511,7 +2511,10 @@
         <mxCell id="Ty5rkw2UKSyU3w_IzllZ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ty5rkw2UKSyU3w_IzllZ-12" target="Ty5rkw2UKSyU3w_IzllZ-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ty5rkw2UKSyU3w_IzllZ-20" value="选择一种场景" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="Ty5rkw2UKSyU3w_IzllZ-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ty5rkw2UKSyU3w_IzllZ-20" target="Ty5rkw2UKSyU3w_IzllZ-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ty5rkw2UKSyU3w_IzllZ-20" value="创建AI场景" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1375" y="2470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ty5rkw2UKSyU3w_IzllZ-64" value="场景" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
@@ -2528,6 +2531,21 @@
             <mxPoint x="1310" y="2500" as="sourcePoint" />
             <mxPoint x="1370" y="2500" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Ty5rkw2UKSyU3w_IzllZ-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ty5rkw2UKSyU3w_IzllZ-73" target="Ty5rkw2UKSyU3w_IzllZ-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ty5rkw2UKSyU3w_IzllZ-73" value="创建场景名称" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1375" y="2570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ty5rkw2UKSyU3w_IzllZ-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ty5rkw2UKSyU3w_IzllZ-75" target="Ty5rkw2UKSyU3w_IzllZ-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ty5rkw2UKSyU3w_IzllZ-75" value="设置触发条件" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1375" y="2670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ty5rkw2UKSyU3w_IzllZ-77" value="上传学习图片&lt;div&gt;或者视频&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1375" y="2780" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
