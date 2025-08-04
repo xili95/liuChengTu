@@ -2547,7 +2547,7 @@
         <mxCell id="Ty5rkw2UKSyU3w_IzllZ-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ty5rkw2UKSyU3w_IzllZ-77" target="Ty5rkw2UKSyU3w_IzllZ-79">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ty5rkw2UKSyU3w_IzllZ-77" value="选择APP并上传学习&lt;div&gt;图片&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;或者视频&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="Ty5rkw2UKSyU3w_IzllZ-77" value="选择APP、输入描述文案并上传学习&lt;div&gt;图片&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;或者视频&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1375" y="2740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ty5rkw2UKSyU3w_IzllZ-79" value="场景执行设备操作" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
@@ -2863,6 +2863,15 @@
           <mxGeometry x="0.9654" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Ty5rkw2UKSyU3w_IzllZ-154" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1930" width="200" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="Ty5rkw2UKSyU3w_IzllZ-157" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;strokeColor=none;shape=rect;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1990" width="180" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="Ty5rkw2UKSyU3w_IzllZ-165" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;到家&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=stencil(lZLhDoIgFIWfhv8IueqnWb0HKSULwSFpvX3A1Qott5yb3u/Mc8+9iGjeVqzhiGDWNrywiO4RIR0zgp2kw8QpFUCKoVSs5kCywgqtHNoxA1prjb7yXpR2+EioihthQe2BJeuVr+kB4cxRf9O80Erx4NcGdpzoZ234xeibKiNhlI3PPosaNyT4DvWgPqJq2vLVWEi5IMPEhZbarQDDM9giQrfhWrZvmF/VTBjlWnf8HTyJk2+WrEcHKdSHQxoZJOn/DpMM/n1pPsd/jDju7utxOzI78UDhdw3gCQ==);fillColor=#FFFFFF;strokeColor=#c0c0c0;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="150.00000000000006" y="1960" width="185" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
