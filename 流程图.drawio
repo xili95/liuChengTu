@@ -241,8 +241,8 @@
         <mxCell id="8DaaA7CvRJ03dj7UqDMV-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8DaaA7CvRJ03dj7UqDMV-106" target="8DaaA7CvRJ03dj7UqDMV-107">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-106" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;周期函数里执行&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;开启定&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: transparent; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 14px; text-align: start;&quot;&gt;getLocation&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1260" width="120" height="50" as="geometry" />
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-106" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;onInitli函数执行&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(rgb(236, 236, 236), rgb(34, 34, 34)); color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;1、wifiStep=0&lt;/span&gt;&lt;/span&gt;&lt;div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: light-dark(rgb(236, 236, 236), rgb(34, 34, 34)); color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); text-wrap-mode: nowrap;&quot;&gt;2、执行&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;开启定&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: transparent; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 14px;&quot;&gt;getLocation&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8DaaA7CvRJ03dj7UqDMV-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8DaaA7CvRJ03dj7UqDMV-107" target="8DaaA7CvRJ03dj7UqDMV-109">
           <mxGeometry relative="1" as="geometry" />
@@ -327,8 +327,10 @@
         <mxCell id="8DaaA7CvRJ03dj7UqDMV-140" value="&lt;span style=&quot;&quot;&gt;进入WiFi设置页&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 14px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;router.push({&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 14px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;uri: `hap://settings/wlan_manager`&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 14px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;})&lt;/p&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="1330" y="1350" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8DaaA7CvRJ03dj7UqDMV-142" target="8DaaA7CvRJ03dj7UqDMV-144">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8DaaA7CvRJ03dj7UqDMV-142">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1840" y="1320" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="8DaaA7CvRJ03dj7UqDMV-142" value="OnShow" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1780" y="1180" width="120" height="60" as="geometry" />
@@ -347,16 +349,13 @@
         <mxCell id="8DaaA7CvRJ03dj7UqDMV-143" value="判断&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;wifiStep为0、1&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="940" y="1465" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-144" value="判断数据&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 14px; text-align: start;&quot;&gt;wifiData是否有值&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1780" y="1320" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="8DaaA7CvRJ03dj7UqDMV-153" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8DaaA7CvRJ03dj7UqDMV-146" target="8DaaA7CvRJ03dj7UqDMV-152">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8DaaA7CvRJ03dj7UqDMV-146" value="和打印机通信" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="935" y="1590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-149" value="WiFi业务完成后面的流程" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-149" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;WiFi业务完成后面的流程&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 14px;&quot;&gt;设置wifiData为空&lt;/span&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;wifiStep为空&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="1100" y="1475" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8DaaA7CvRJ03dj7UqDMV-151" value="是1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -368,7 +367,7 @@
         <mxCell id="8DaaA7CvRJ03dj7UqDMV-159" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8DaaA7CvRJ03dj7UqDMV-152" target="8DaaA7CvRJ03dj7UqDMV-158">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-160" value="陈功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8DaaA7CvRJ03dj7UqDMV-159">
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-160" value="成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8DaaA7CvRJ03dj7UqDMV-159">
           <mxGeometry x="-0.1667" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -386,7 +385,19 @@
           <mxGeometry x="1145" y="1668" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8DaaA7CvRJ03dj7UqDMV-158" value="设置&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;wifiStep为1&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;连接手机WiFi&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="1590" width="120" height="60" as="geometry" />
+          <mxGeometry x="1280" y="1590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-161" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="8DaaA7CvRJ03dj7UqDMV-131">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1310" y="1590" as="sourcePoint" />
+            <mxPoint x="1300" y="1230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1310" y="1265" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-162" value="判断数据&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 14px; text-align: start;&quot;&gt;wifiData是否有值&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="1290" width="140" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
