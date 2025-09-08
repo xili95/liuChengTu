@@ -238,13 +238,28 @@
         <mxCell id="8DaaA7CvRJ03dj7UqDMV-104" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;在private里面定义一个wifiStep:&#39;&#39;,//0表示未进行wifi热点连接 1已经醒wifi热点连接&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="1150" width="460" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8DaaA7CvRJ03dj7UqDMV-106" target="8DaaA7CvRJ03dj7UqDMV-107">
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-198" value="" style="group;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="310" y="1250" width="530" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8DaaA7CvRJ03dj7UqDMV-198" source="8DaaA7CvRJ03dj7UqDMV-122" target="8DaaA7CvRJ03dj7UqDMV-129">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-106" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;onInitli函数执行&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(rgb(236, 236, 236), rgb(34, 34, 34)); color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;1、wifiStep=0&lt;/span&gt;&lt;/span&gt;&lt;div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: light-dark(rgb(236, 236, 236), rgb(34, 34, 34)); color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); text-wrap-mode: nowrap;&quot;&gt;2、执行&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;开启定&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: transparent; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 14px;&quot;&gt;getLocation&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1250" width="120" height="60" as="geometry" />
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-122" value="执行WiFi监听&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 14px; text-align: start;&quot;&gt;wifi.onscanned&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="8DaaA7CvRJ03dj7UqDMV-198">
+          <mxGeometry x="390" y="10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8DaaA7CvRJ03dj7UqDMV-107" target="8DaaA7CvRJ03dj7UqDMV-109">
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-129" value="判&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;wifiStep为0或者1时&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;将获获取到的符合WiFi数据&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;存在&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 14px; text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;wifiData&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="8DaaA7CvRJ03dj7UqDMV-198">
+          <mxGeometry x="370" y="110" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-197" value="" style="group" vertex="1" connectable="0" parent="8DaaA7CvRJ03dj7UqDMV-198">
+          <mxGeometry width="310" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8DaaA7CvRJ03dj7UqDMV-197" source="8DaaA7CvRJ03dj7UqDMV-106" target="8DaaA7CvRJ03dj7UqDMV-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-106" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;onInitli函数执行&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(rgb(236, 236, 236), rgb(34, 34, 34)); color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;1、wifiStep=0&lt;/span&gt;&lt;/span&gt;&lt;div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: light-dark(rgb(236, 236, 236), rgb(34, 34, 34)); color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); text-wrap-mode: nowrap;&quot;&gt;2、执行&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;开启定&lt;/span&gt;&lt;span style=&quot;forced-color-adjust: none; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: transparent; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 14px;&quot;&gt;getLocation&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="8DaaA7CvRJ03dj7UqDMV-197">
+          <mxGeometry x="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8DaaA7CvRJ03dj7UqDMV-197" source="8DaaA7CvRJ03dj7UqDMV-107" target="8DaaA7CvRJ03dj7UqDMV-109">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8DaaA7CvRJ03dj7UqDMV-111" value="失败" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8DaaA7CvRJ03dj7UqDMV-110">
@@ -252,54 +267,48 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8DaaA7CvRJ03dj7UqDMV-107" target="8DaaA7CvRJ03dj7UqDMV-112">
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8DaaA7CvRJ03dj7UqDMV-197" source="8DaaA7CvRJ03dj7UqDMV-107" target="8DaaA7CvRJ03dj7UqDMV-112">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-107" value="定位是否成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1375" width="80" height="80" as="geometry" />
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-107" value="定位是否成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="8DaaA7CvRJ03dj7UqDMV-197">
+          <mxGeometry x="50" y="125" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-109" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;失败页面&lt;/span&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;失败原因：配网需要定位权限&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;按钮：重试、退出&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1530" width="180" height="60" as="geometry" />
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-109" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;失败页面&lt;/span&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;失败原因：配网需要定位权限&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;按钮：重试、退出&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="8DaaA7CvRJ03dj7UqDMV-197">
+          <mxGeometry y="280" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8DaaA7CvRJ03dj7UqDMV-112" target="8DaaA7CvRJ03dj7UqDMV-115">
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8DaaA7CvRJ03dj7UqDMV-197" source="8DaaA7CvRJ03dj7UqDMV-112" target="8DaaA7CvRJ03dj7UqDMV-115">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-112" value="WiFi扫描&lt;div&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 14px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; text-align: start;&quot; class=&quot;p1&quot;&gt;wifi.scan&lt;/p&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="1385" width="120" height="60" as="geometry" />
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-112" value="WiFi扫描&lt;div&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 14px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;; text-align: start;&quot; class=&quot;p1&quot;&gt;wifi.scan&lt;/p&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="8DaaA7CvRJ03dj7UqDMV-197">
+          <mxGeometry x="190" y="135" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-114" value="成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="445" y="1398" width="50" height="30" as="geometry" />
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-114" value="成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="8DaaA7CvRJ03dj7UqDMV-197">
+          <mxGeometry x="135" y="148" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8DaaA7CvRJ03dj7UqDMV-115" target="8DaaA7CvRJ03dj7UqDMV-119">
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8DaaA7CvRJ03dj7UqDMV-197" source="8DaaA7CvRJ03dj7UqDMV-115" target="8DaaA7CvRJ03dj7UqDMV-119">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-115" value="是否成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="1490" width="80" height="80" as="geometry" />
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-115" value="是否成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="8DaaA7CvRJ03dj7UqDMV-197">
+          <mxGeometry x="210" y="240" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-119" value="失败页" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="1620" width="120" height="60" as="geometry" />
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-119" value="失败页" style="whiteSpace=wrap;html=1;" vertex="1" parent="8DaaA7CvRJ03dj7UqDMV-197">
+          <mxGeometry x="190" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-121" value="失败" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="545" y="1578" width="50" height="30" as="geometry" />
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-121" value="失败" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="8DaaA7CvRJ03dj7UqDMV-197">
+          <mxGeometry x="235" y="328" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8DaaA7CvRJ03dj7UqDMV-122" target="8DaaA7CvRJ03dj7UqDMV-129">
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-199" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="930" y="1250" width="620" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8DaaA7CvRJ03dj7UqDMV-199" source="8DaaA7CvRJ03dj7UqDMV-131" target="8DaaA7CvRJ03dj7UqDMV-132">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-122" value="执行WiFi监听&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 14px; text-align: start;&quot;&gt;wifi.onscanned&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="1260" width="120" height="60" as="geometry" />
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-131" value="调用连接WiFi的接口&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 14px; text-align: left;&quot;&gt;wifi.connect&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="8DaaA7CvRJ03dj7UqDMV-199">
+          <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-129" value="判&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;wifiStep为0或者1时&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;将获获取到的符合WiFi数据&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;存在&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 14px; text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;wifiData&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="1360" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-133" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8DaaA7CvRJ03dj7UqDMV-131" target="8DaaA7CvRJ03dj7UqDMV-132">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-131" value="调用连接WiFi的接口&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 14px; text-align: left;&quot;&gt;wifi.connect&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="1250" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8DaaA7CvRJ03dj7UqDMV-132" target="8DaaA7CvRJ03dj7UqDMV-143">
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8DaaA7CvRJ03dj7UqDMV-199" source="8DaaA7CvRJ03dj7UqDMV-132" target="8DaaA7CvRJ03dj7UqDMV-143">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="990" y="1490" as="targetPoint" />
+            <mxPoint x="60" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8DaaA7CvRJ03dj7UqDMV-136" value="成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8DaaA7CvRJ03dj7UqDMV-135">
@@ -307,35 +316,27 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-138" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8DaaA7CvRJ03dj7UqDMV-132" target="8DaaA7CvRJ03dj7UqDMV-137">
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-138" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8DaaA7CvRJ03dj7UqDMV-199" source="8DaaA7CvRJ03dj7UqDMV-132" target="8DaaA7CvRJ03dj7UqDMV-137">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-132" value="连接是否成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="1340" width="120" height="80" as="geometry" />
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-132" value="连接是否成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="8DaaA7CvRJ03dj7UqDMV-199">
+          <mxGeometry y="90" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-141" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8DaaA7CvRJ03dj7UqDMV-137">
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-141" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8DaaA7CvRJ03dj7UqDMV-199" source="8DaaA7CvRJ03dj7UqDMV-137">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1330" y="1380" as="targetPoint" />
+            <mxPoint x="400" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-137" value="弹窗提示用户进入WiFi设置页手动连接指定WiFi" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="1350" width="120" height="60" as="geometry" />
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-137" value="弹窗提示用户进入WiFi设置页手动连接指定WiFi" style="whiteSpace=wrap;html=1;" vertex="1" parent="8DaaA7CvRJ03dj7UqDMV-199">
+          <mxGeometry x="200" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-139" value="失败" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1045" y="1358" width="50" height="30" as="geometry" />
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-139" value="失败" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="8DaaA7CvRJ03dj7UqDMV-199">
+          <mxGeometry x="115" y="108" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-140" value="&lt;span style=&quot;&quot;&gt;进入WiFi设置页&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 14px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;router.push({&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 14px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;uri: `hap://settings/wlan_manager`&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 14px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;})&lt;/p&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="1350" width="220" height="60" as="geometry" />
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-140" value="&lt;span style=&quot;&quot;&gt;进入WiFi设置页&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 14px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&lt;/span&gt;router.push({&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 14px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;uri: `hap://settings/wlan_manager`&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 14px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;})&lt;/p&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="8DaaA7CvRJ03dj7UqDMV-199">
+          <mxGeometry x="400" y="100" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8DaaA7CvRJ03dj7UqDMV-142">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1840" y="1320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-142" value="OnShow" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1780" y="1180" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-147" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8DaaA7CvRJ03dj7UqDMV-143" target="8DaaA7CvRJ03dj7UqDMV-146">
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-147" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8DaaA7CvRJ03dj7UqDMV-199" source="8DaaA7CvRJ03dj7UqDMV-143" target="8DaaA7CvRJ03dj7UqDMV-146">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8DaaA7CvRJ03dj7UqDMV-148" value="是0" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8DaaA7CvRJ03dj7UqDMV-147">
@@ -343,28 +344,28 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-150" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8DaaA7CvRJ03dj7UqDMV-143" target="8DaaA7CvRJ03dj7UqDMV-149">
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-150" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8DaaA7CvRJ03dj7UqDMV-199" source="8DaaA7CvRJ03dj7UqDMV-143" target="8DaaA7CvRJ03dj7UqDMV-149">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-143" value="判断&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;wifiStep为0、1&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="1465" width="110" height="80" as="geometry" />
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-143" value="判断&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;wifiStep为0、1&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="8DaaA7CvRJ03dj7UqDMV-199">
+          <mxGeometry x="10" y="215" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-153" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8DaaA7CvRJ03dj7UqDMV-146" target="8DaaA7CvRJ03dj7UqDMV-152">
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-153" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8DaaA7CvRJ03dj7UqDMV-199" source="8DaaA7CvRJ03dj7UqDMV-146" target="8DaaA7CvRJ03dj7UqDMV-152">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-146" value="1、和打印机通信&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 14px; text-align: left;&quot;&gt;2、设置wifiData为空&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="935" y="1590" width="120" height="60" as="geometry" />
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-146" value="1、和打印机通信&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 14px; text-align: left;&quot;&gt;2、设置wifiData为空&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="8DaaA7CvRJ03dj7UqDMV-199">
+          <mxGeometry x="5" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-149" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;WiFi业务完成后面的流程&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 14px;&quot;&gt;设置wifiData为空&lt;/span&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;wifiStep为空&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="1475" width="120" height="60" as="geometry" />
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-149" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;WiFi业务完成后面的流程&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 14px;&quot;&gt;设置wifiData为空&lt;/span&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;wifiStep为空&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="8DaaA7CvRJ03dj7UqDMV-199">
+          <mxGeometry x="170" y="225" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-151" value="是1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="1480" width="40" height="30" as="geometry" />
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-151" value="是1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="8DaaA7CvRJ03dj7UqDMV-199">
+          <mxGeometry x="120" y="230" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-155" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8DaaA7CvRJ03dj7UqDMV-152" target="8DaaA7CvRJ03dj7UqDMV-154">
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-155" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8DaaA7CvRJ03dj7UqDMV-199" source="8DaaA7CvRJ03dj7UqDMV-152" target="8DaaA7CvRJ03dj7UqDMV-154">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-159" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8DaaA7CvRJ03dj7UqDMV-152" target="8DaaA7CvRJ03dj7UqDMV-158">
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-159" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8DaaA7CvRJ03dj7UqDMV-199" source="8DaaA7CvRJ03dj7UqDMV-152" target="8DaaA7CvRJ03dj7UqDMV-158">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8DaaA7CvRJ03dj7UqDMV-160" value="成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8DaaA7CvRJ03dj7UqDMV-159">
@@ -372,81 +373,28 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-152" value="通信失败还是成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="1580" width="80" height="80" as="geometry" />
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-152" value="通信失败还是成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="8DaaA7CvRJ03dj7UqDMV-199">
+          <mxGeometry x="190" y="330" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-156" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8DaaA7CvRJ03dj7UqDMV-154" target="8DaaA7CvRJ03dj7UqDMV-152">
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-156" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8DaaA7CvRJ03dj7UqDMV-199" source="8DaaA7CvRJ03dj7UqDMV-154" target="8DaaA7CvRJ03dj7UqDMV-152">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-154" value="失败页" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="1710" width="120" height="60" as="geometry" />
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-154" value="失败页" style="whiteSpace=wrap;html=1;" vertex="1" parent="8DaaA7CvRJ03dj7UqDMV-199">
+          <mxGeometry x="170" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-157" value="失败" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1145" y="1668" width="50" height="30" as="geometry" />
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-157" value="失败" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="8DaaA7CvRJ03dj7UqDMV-199">
+          <mxGeometry x="215" y="418" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-158" value="设置&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;wifiStep为1&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;连接手机WiFi&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="1590" width="120" height="60" as="geometry" />
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-158" value="设置&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;wifiStep为1&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;连接手机WiFi&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="8DaaA7CvRJ03dj7UqDMV-199">
+          <mxGeometry x="350" y="340" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-161" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="8DaaA7CvRJ03dj7UqDMV-131">
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-161" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="8DaaA7CvRJ03dj7UqDMV-199" target="8DaaA7CvRJ03dj7UqDMV-131">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1310" y="1590" as="sourcePoint" />
-            <mxPoint x="1300" y="1230" as="targetPoint" />
+            <mxPoint x="380" y="340" as="sourcePoint" />
+            <mxPoint x="370" y="-20" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1310" y="1265" />
+              <mxPoint x="380" y="15" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-165" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8DaaA7CvRJ03dj7UqDMV-162" target="8DaaA7CvRJ03dj7UqDMV-164">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-166" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8DaaA7CvRJ03dj7UqDMV-165">
-          <mxGeometry x="-0.1" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-162" value="判断数据&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 14px; text-align: start;&quot;&gt;wifiData&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 14px; text-align: start;&quot;&gt;是否为空&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1770" y="1290" width="140" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-168" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8DaaA7CvRJ03dj7UqDMV-164" target="8DaaA7CvRJ03dj7UqDMV-167">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-164" value="&lt;span style=&quot;text-align: left;&quot;&gt;调用获取连接WiFi信息接口&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left; background-color: transparent; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 14px;&quot;&gt;wifi.getConnectedWifi&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1765" y="1430" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-178" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8DaaA7CvRJ03dj7UqDMV-167" target="8DaaA7CvRJ03dj7UqDMV-177">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-179" value="成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8DaaA7CvRJ03dj7UqDMV-178">
-          <mxGeometry x="-0.1429" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-181" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8DaaA7CvRJ03dj7UqDMV-167" target="8DaaA7CvRJ03dj7UqDMV-180">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-167" value="接口是否成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1800" y="1528" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-184" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8DaaA7CvRJ03dj7UqDMV-177" target="8DaaA7CvRJ03dj7UqDMV-183">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-177" value="判断获取到的WiFi SSID 和数据&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 14px; text-align: start;&quot;&gt;wifiData里的SSID是否一致&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="1650" width="190" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-180" value="失败页" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1940" y="1538" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-182" value="失败" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1885" y="1548" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-188" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.2;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8DaaA7CvRJ03dj7UqDMV-183" target="8DaaA7CvRJ03dj7UqDMV-146">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1845" y="1950" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-189" value="是0" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8DaaA7CvRJ03dj7UqDMV-188">
-          <mxGeometry x="-0.1111" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8DaaA7CvRJ03dj7UqDMV-191" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.008;entryY=0.383;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8DaaA7CvRJ03dj7UqDMV-183" target="8DaaA7CvRJ03dj7UqDMV-149">
@@ -459,11 +407,75 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-183" value="判断&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;wifiStep为0、1&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="1780" width="190" height="80" as="geometry" />
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-200" value="" style="group;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1620" y="1180" width="310" height="680" as="geometry" />
         </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-185" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1830" y="1748" width="40" height="30" as="geometry" />
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8DaaA7CvRJ03dj7UqDMV-200" source="8DaaA7CvRJ03dj7UqDMV-142">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-142" value="OnShow" style="whiteSpace=wrap;html=1;" vertex="1" parent="8DaaA7CvRJ03dj7UqDMV-200">
+          <mxGeometry x="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-165" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8DaaA7CvRJ03dj7UqDMV-200" source="8DaaA7CvRJ03dj7UqDMV-162" target="8DaaA7CvRJ03dj7UqDMV-164">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-166" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8DaaA7CvRJ03dj7UqDMV-165">
+          <mxGeometry x="-0.1" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-162" value="判断数据&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 14px; text-align: start;&quot;&gt;wifiData&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 14px; text-align: start;&quot;&gt;是否为空&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="8DaaA7CvRJ03dj7UqDMV-200">
+          <mxGeometry x="20" y="110" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-168" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8DaaA7CvRJ03dj7UqDMV-200" source="8DaaA7CvRJ03dj7UqDMV-164" target="8DaaA7CvRJ03dj7UqDMV-167">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-164" value="&lt;span style=&quot;text-align: left;&quot;&gt;调用获取连接WiFi信息接口&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left; background-color: transparent; font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 14px;&quot;&gt;wifi.getConnectedWifi&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="8DaaA7CvRJ03dj7UqDMV-200">
+          <mxGeometry x="15" y="250" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-178" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8DaaA7CvRJ03dj7UqDMV-200" source="8DaaA7CvRJ03dj7UqDMV-167" target="8DaaA7CvRJ03dj7UqDMV-177">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-179" value="成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8DaaA7CvRJ03dj7UqDMV-178">
+          <mxGeometry x="-0.1429" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-181" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8DaaA7CvRJ03dj7UqDMV-200" source="8DaaA7CvRJ03dj7UqDMV-167" target="8DaaA7CvRJ03dj7UqDMV-180">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-167" value="接口是否成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="8DaaA7CvRJ03dj7UqDMV-200">
+          <mxGeometry x="50" y="348" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-184" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8DaaA7CvRJ03dj7UqDMV-200" source="8DaaA7CvRJ03dj7UqDMV-177" target="8DaaA7CvRJ03dj7UqDMV-183">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-177" value="判断获取到的WiFi SSID 和数据&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 14px; text-align: start;&quot;&gt;wifiData里的SSID是否一致&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="8DaaA7CvRJ03dj7UqDMV-200">
+          <mxGeometry y="470" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-180" value="失败页" style="whiteSpace=wrap;html=1;" vertex="1" parent="8DaaA7CvRJ03dj7UqDMV-200">
+          <mxGeometry x="190" y="358" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-182" value="失败" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="8DaaA7CvRJ03dj7UqDMV-200">
+          <mxGeometry x="135" y="368" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-183" value="判断&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;wifiStep为0、1&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="8DaaA7CvRJ03dj7UqDMV-200">
+          <mxGeometry y="600" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-185" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="8DaaA7CvRJ03dj7UqDMV-200">
+          <mxGeometry x="80" y="568" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-188" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.2;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8DaaA7CvRJ03dj7UqDMV-183" target="8DaaA7CvRJ03dj7UqDMV-146">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1845" y="1950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-189" value="是0" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8DaaA7CvRJ03dj7UqDMV-188">
+          <mxGeometry x="-0.1111" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
