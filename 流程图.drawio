@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1" pages="9">
   <diagram id="bv9JX02oc4qMeNrIS_mX" name="奔图配网">
-    <mxGraphModel dx="1428" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="4728" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -199,8 +199,8 @@
         <mxCell id="8DaaA7CvRJ03dj7UqDMV-88" value="成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1985" y="778" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8DaaA7CvRJ03dj7UqDMV-89" value="在private里面定义一个ssid:&#39;&#39;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="125" y="108" width="170" height="30" as="geometry" />
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-89" value="在private里面定义一个wifiStep:0,//0表示未进行wifi热点连接 1已经醒wifi热点连接" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="108" width="450" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
