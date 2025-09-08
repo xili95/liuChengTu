@@ -173,8 +173,14 @@
         <mxCell id="8DaaA7CvRJ03dj7UqDMV-77" value="WiFi热点连接成功&lt;div&gt;清空&lt;span style=&quot;font-family: &amp;quot;Helvetica Neue&amp;quot;; font-size: 14px; text-align: start; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;wifiData数据&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1740" y="540" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8DaaA7CvRJ03dj7UqDMV-79" target="8DaaA7CvRJ03dj7UqDMV-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8DaaA7CvRJ03dj7UqDMV-79" value="与打印机通信" style="whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1940" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8DaaA7CvRJ03dj7UqDMV-81" value="调用WiFi连接接口连接WiFi" style="whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="630" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
