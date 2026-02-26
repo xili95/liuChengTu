@@ -3618,7 +3618,7 @@
         <mxCell id="Ty5rkw2UKSyU3w_IzllZ-80" edge="1" parent="Ty5rkw2UKSyU3w_IzllZ-185" source="Ty5rkw2UKSyU3w_IzllZ-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ty5rkw2UKSyU3w_IzllZ-79" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ty5rkw2UKSyU3w_IzllZ-77" parent="Ty5rkw2UKSyU3w_IzllZ-185" style="whiteSpace=wrap;html=1;rounded=1;" value="选择APP、输入描述文案并上传学习&lt;div&gt;图片&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;或者视频&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="Ty5rkw2UKSyU3w_IzllZ-77" parent="Ty5rkw2UKSyU3w_IzllZ-185" style="whiteSpace=wrap;html=1;rounded=1;" value="选择APP、输入描述文案并上传操作示意&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;视频&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="245" y="459" as="geometry" />
         </mxCell>
         <mxCell id="Ty5rkw2UKSyU3w_IzllZ-79" parent="Ty5rkw2UKSyU3w_IzllZ-185" style="whiteSpace=wrap;html=1;rounded=1;" value="场景执行设备操作" vertex="1">
