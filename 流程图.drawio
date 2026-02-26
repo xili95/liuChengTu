@@ -3585,7 +3585,7 @@
         <mxCell id="Ty5rkw2UKSyU3w_IzllZ-74" edge="1" parent="Ty5rkw2UKSyU3w_IzllZ-185" source="Ty5rkw2UKSyU3w_IzllZ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ty5rkw2UKSyU3w_IzllZ-73" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ty5rkw2UKSyU3w_IzllZ-20" parent="Ty5rkw2UKSyU3w_IzllZ-185" style="whiteSpace=wrap;html=1;rounded=1;" value="创建外部场景" vertex="1">
+        <mxCell id="Ty5rkw2UKSyU3w_IzllZ-20" parent="Ty5rkw2UKSyU3w_IzllZ-185" style="whiteSpace=wrap;html=1;rounded=1;" value="创建智能场景" vertex="1">
           <mxGeometry height="60" width="120" x="245" y="189" as="geometry" />
         </mxCell>
         <mxCell id="Ty5rkw2UKSyU3w_IzllZ-64" parent="Ty5rkw2UKSyU3w_IzllZ-185" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" value="场景" vertex="1">
