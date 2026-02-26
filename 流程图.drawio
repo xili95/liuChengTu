@@ -2774,7 +2774,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="s_mszkLsiqG3ClFB3CDw" name="点子">
-    <mxGraphModel dx="1107" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="734" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3817,7 +3817,7 @@
         <mxCell id="Ty5rkw2UKSyU3w_IzllZ-77" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="输入描述文案并上传操作示意&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;视频&lt;/span&gt;" vertex="1">
           <mxGeometry height="56.90140845070424" width="105.66037735849055" x="1272.3332704402515" y="2917.7498591549297" as="geometry" />
         </mxCell>
-        <mxCell id="Ty5rkw2UKSyU3w_IzllZ-79" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="完成场景创建" vertex="1">
+        <mxCell id="Ty5rkw2UKSyU3w_IzllZ-79" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;span style=&quot;text-align: start; font-size: 10pt; font-family: DengXian;&quot;&gt;智能&lt;span lang=&quot;EN-US&quot;&gt;Agent&lt;/span&gt;工具处理文案和视频&lt;/span&gt;&lt;span style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="56.90140845070424" width="105.66037735849055" x="1272.3332704402515" y="3003.101971830986" as="geometry" />
         </mxCell>
         <mxCell id="Ty5rkw2UKSyU3w_IzllZ-81" edge="1" parent="1" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" value="">
