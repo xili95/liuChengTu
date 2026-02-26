@@ -3541,7 +3541,7 @@
         <mxCell id="Ty5rkw2UKSyU3w_IzllZ-175" parent="Ty5rkw2UKSyU3w_IzllZ-174" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="打开米家的APP的客厅灯" vertex="1">
           <mxGeometry height="30" width="160" x="5" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ty5rkw2UKSyU3w_IzllZ-176" parent="Ty5rkw2UKSyU3w_IzllZ-174" style="shape=tape;whiteSpace=wrap;html=1;" value="图片或视频" vertex="1">
+        <mxCell id="Ty5rkw2UKSyU3w_IzllZ-176" parent="Ty5rkw2UKSyU3w_IzllZ-174" style="shape=tape;whiteSpace=wrap;html=1;" value="视频" vertex="1">
           <mxGeometry height="50" width="70" x="50" y="60" as="geometry" />
         </mxCell>
         <mxCell id="Ty5rkw2UKSyU3w_IzllZ-177" parent="Ty5rkw2UKSyU3w_IzllZ-180" style="swimlane;whiteSpace=wrap;html=1;" value="智慧生活" vertex="1">
@@ -3550,7 +3550,7 @@
         <mxCell id="Ty5rkw2UKSyU3w_IzllZ-178" parent="Ty5rkw2UKSyU3w_IzllZ-177" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="打开客厅的空调设置26度" vertex="1">
           <mxGeometry height="30" width="160" x="5" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ty5rkw2UKSyU3w_IzllZ-179" parent="Ty5rkw2UKSyU3w_IzllZ-177" style="shape=tape;whiteSpace=wrap;html=1;" value="图片或视频" vertex="1">
+        <mxCell id="Ty5rkw2UKSyU3w_IzllZ-179" parent="Ty5rkw2UKSyU3w_IzllZ-177" style="shape=tape;whiteSpace=wrap;html=1;" value="视频" vertex="1">
           <mxGeometry height="50" width="70" x="50" y="60" as="geometry" />
         </mxCell>
         <mxCell id="Ty5rkw2UKSyU3w_IzllZ-186" connectable="0" parent="1" style="group;strokeColor=default;" value="" vertex="1">
